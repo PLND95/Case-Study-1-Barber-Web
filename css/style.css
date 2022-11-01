@@ -5,7 +5,7 @@
 
 }
 .header-wrap {
-        background-image: url(/image/banner.png);
+        background-image: url("/image/banner.png");
         background-size:cover;
         background-repeat: no-repeat;
         padding-bottom: 4em;
